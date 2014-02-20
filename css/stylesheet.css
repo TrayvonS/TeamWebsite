@@ -1,0 +1,45 @@
+p{
+	font-family: 'Mystery Quest', cursive;
+	font-size: 100px;
+	color: gold;
+}
+#div1{
+	float: left;
+	border:0px dotted black;
+	width:400px;
+	height:400px;
+}
+#div2{
+	float:left;
+	border:0px dotted black;
+	width:400px;
+	height:400px;
+	top:100px;
+	right:100px;
+	
+}
+#div3{
+	float:left;
+	border:0px dotted black;
+	width:400px;
+	height:400px;
+}
+
+img{
+	width:400px;
+	height:400px;
+}
+#boxes{
+	margin:auto;
+}
+.centered{
+	position:;
+    width:1500px;
+   height:500px;
+    left:100%;
+    top:100%;
+    margin-left:300px;
+    margin-top:100px;
+}
+
+	
